@@ -1,0 +1,14 @@
+event_id,action_name,event_source,start_frame,end_frame,start_time_sec,end_time_sec,defined_at_frame,defined_at_time_sec,total_frames,pinch_detected_frames,active_std_total_norm,minimum_thumb_ip_angle,repeated_number,touch_with_index_seen,touch_with_index_thumb_opened_seen,touching_pinch_or_supporting_seen,rubbing_and_smelling_seen,pulling_dead_leaves_seen
+1,TOUCHING,pinch,72,74,2.367,2.433,75,2.467,3,3,0.000,173.868,0,0,0,1,0,0
+2,TOUCHING,non_pinch_touch,135,137,4.467,4.533,138,4.567,3,0,,,0,1,1,0,0,0
+3,TOUCHING,non_pinch_touch,144,158,4.767,5.233,159,5.267,15,0,,,0,1,1,0,0,0
+4,TOUCHING,pinch,159,164,5.267,5.433,165,5.467,6,6,0.149,162.133,0,0,0,1,0,0
+5,TOUCHING,non_pinch_touch,165,170,5.467,5.633,171,5.667,6,0,,,0,1,1,0,0,0
+6,TOUCHING,pinch,174,176,5.767,5.833,177,5.867,3,3,0.000,176.234,0,0,0,1,0,0
+7,TOUCHING,pinch,180,182,5.967,6.033,183,6.067,3,3,0.000,170.335,0,0,0,1,0,0
+8,RUBBING & SMELLING,pinch,291,401,9.667,13.333,402,13.367,111,111,0.165,162.838,16,0,0,1,1,0
+9,PULLING DEAD LEAVES,pinch,537,599,17.867,19.933,600,19.967,63,63,0.381,162.743,3,0,0,1,0,1
+10,TOUCHING,pinch,642,647,21.367,21.533,648,21.567,6,6,0.250,174.016,0,0,0,1,0,0
+11,TOUCHING,pinch,732,782,24.367,26.033,783,26.067,51,51,0.296,158.374,5,0,0,1,0,0
+12,PULLING DEAD LEAVES,pinch,819,827,27.267,27.533,828,27.567,9,9,0.405,163.684,1,0,0,1,0,1
+13,TOUCHING,pinch,909,911,30.267,30.333,912,30.367,3,3,0.000,162.694,0,0,0,1,0,0

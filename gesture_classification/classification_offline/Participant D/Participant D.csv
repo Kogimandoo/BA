@@ -1,0 +1,13 @@
+event_id,action_name,event_source,start_frame,end_frame,start_time_sec,end_time_sec,defined_at_frame,defined_at_time_sec,total_frames,pinch_detected_frames,active_std_total_norm,minimum_thumb_ip_angle,repeated_number,touch_with_index_seen,touch_with_index_thumb_opened_seen,touching_pinch_or_supporting_seen,rubbing_and_smelling_seen,pulling_dead_leaves_seen
+1,TOUCHING,pinch,153,158,5.067,5.233,159,5.267,6,6,0.188,176.412,0,0,0,1,0,0
+2,TOUCHING,non_pinch_touch,162,230,5.367,7.633,231,7.667,69,0,,,0,1,1,0,0,0
+3,PULLING DEAD LEAVES,pinch,234,242,7.767,8.033,243,8.067,9,9,0.448,160.926,0,0,0,1,0,1
+4,TOUCHING,pinch,342,347,11.367,11.533,348,11.567,6,6,0.239,170.136,0,0,0,1,0,0
+5,RUBBING & SMELLING,pinch,360,401,11.967,13.333,402,13.367,42,42,0.057,160.980,6,0,0,1,1,0
+6,TOUCHING,non_pinch_touch,402,404,13.367,13.433,405,13.467,3,0,,,0,1,0,0,0,0
+7,PULLING DEAD LEAVES,pinch,564,755,18.767,25.133,756,25.167,192,192,0.387,149.240,14,0,0,1,0,1
+8,TOUCHING,pinch,846,848,28.167,28.233,849,28.267,3,3,0.000,175.171,0,0,0,1,0,0
+9,RUBBING & SMELLING,pinch,855,914,28.467,30.433,915,30.467,60,60,0.126,152.583,5,0,0,1,1,0
+10,TOUCHING,pinch,918,920,30.567,30.633,921,30.667,3,3,0.000,145.638,0,0,0,1,0,0
+11,TOUCHING,pinch,927,935,30.867,31.133,936,31.167,9,9,0.064,147.021,1,0,0,1,0,0
+12,TOUCHING,pinch,939,983,31.267,32.733,984,32.767,45,45,0.228,147.396,5,0,0,1,0,0

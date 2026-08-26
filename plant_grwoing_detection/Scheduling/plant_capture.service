@@ -1,0 +1,13 @@
+[Unit]
+Description=Capture plant growth image using Arducam ToF camera
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=pi4
+WorkingDirectory=/home/pi4/farm/Arducam_tof_camera/plant_growth
+ExecStart=/home/pi4/miniforge3/envs/farm/bin/python /home/pi4/farm/Arducam_tof_camera/plant_growth/capture_plant.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
